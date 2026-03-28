@@ -8,7 +8,7 @@ export default defineConfig({
     retries : 0,
     use : {
         baseURL : "https://thinking-tester-contact-list.herokuapp.com/",
-        headless : false,
+        headless : true,
         screenshot : "on",
         video : "on",
         trace : "on",
