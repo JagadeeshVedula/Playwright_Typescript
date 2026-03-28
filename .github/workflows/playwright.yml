@@ -23,6 +23,6 @@ jobs:
       if: ${{ !cancelled() }}
       with:
         name: test-results-logs
-        path: test-results/*.log
+        path: test-results/
         retention-days: 30
 
