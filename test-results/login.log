@@ -1,0 +1,8 @@
+navigating to the url : /
+waiting for element : locator('#email')
+element found : locator('#email')
+element locator('#email') filled with user1994@gmail.com
+element locator('#password') filled with Yuvraj@12
+clicking element : locator('#submit')
+waiting for element : locator('//h1[text()=\'Contact List\']')
+element found : locator('//h1[text()=\'Contact List\']')
